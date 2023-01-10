@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+ 
+}
+
+h2{
+    text-align: center;
+}
+.pics{
+    width: 382px;
+    height: 301px;
+    
+    
+}
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+button{
+    background-color: darkred;
+    color:white;
+}
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: lightgrey;
+}
+a:hover ,:active{
+    color: #eee;
+}
+.continue{
+    text-align: center;
+    color: green;
+}
